@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Random Duck ",
+    "version": "1.0.1",
+    "icons":{
+        "128":"duck.png"
+    },
+    "permissions":["activeTab"],
+    "action":{
+        "default_popup":"index.html"
+    }
+   
+}
